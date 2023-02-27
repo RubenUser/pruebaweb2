@@ -1,0 +1,9 @@
+site_name: Introduccion a la Inteligencia Artificial
+docs_dir: md
+site: docs
+nav: 
+  - Home: index.md
+  - Introducción a la IA:
+    - Parte teórica: teoria.md
+    - Parte práctica: actividades.md
+  - About: about.md
